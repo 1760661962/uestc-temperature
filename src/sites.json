@@ -20,7 +20,7 @@
     "data": {
       "healthCondition": "正常",
       "todayMorningTemperature": "36.5°C~36.9°C",
-      "location": "四川省成都市郫都区丹桂路",
+      "location": "四川省成都市郫都区学知苑20号",
       "healthColor": "绿色"
     },
     "description": "在校学生数据"
@@ -45,9 +45,9 @@
       "isLeaveChengdu": 1,
       "isSymptom": 0,
       "temperature": "36.5°C~36.9°C",
-      "province": "江苏省",
-      "city": "苏州市",
-      "county": "常熟市"
+      "province": "新疆维吾尔自治区",
+      "city": "阿克苏市",
+      "county": "拜城县"
     },
     "description": "离校学生数据"
   }
